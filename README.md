@@ -1,0 +1,2 @@
+# TSMC-Financial-Statement-Analysis-Evaluating-Performance-and-Investment-Potential
+This project analyzes Taiwan Semiconductor Manufacturing Company Ltd. (TSMC), focusing on its financial performance, industry position, and future growth potential. Key insights include profitability trends, operational efficiency, and market dominance, with a recommendation to invest based on projected value and sustained growth.
